@@ -4,13 +4,13 @@
   "update_url": "https://raw.githubusercontent.com/shariianatoly-del/servers/main/servers.json",
   "servers": [
     {
-      "id": "de-frankfurt-1",
+      "id": "de-Canada-1",
       "name": "Германия C-137",
       "country": "Германия",
-      "country_code": "DE",
-      "flag": "🇩🇪",
+      "country_code": "CD",
+      "flag": "cd",
       "city": "Frankfurt",
-      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTZMV1pJMjg5T1VaNlpZMTNZNDZ1QGRlMS4zNi4xMTguMzM6MTEyMDE#Germany%20%20%2F%20Frankfurt%20%2F%20OutlineKeys.com",
+      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ==@193.203.203.66:443#Canada%20#32554%20/%20OutlineKeys.com",
       "sort_order": 1
     },
     {
