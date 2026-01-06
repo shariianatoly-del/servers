@@ -4,12 +4,24 @@
   "update_url": "https://raw.githubusercontent.com/shariianatoly-del/servers/main/servers.json",
   "servers": [
     {
+      "id": "de-frankfurt-1",
       "name": "Германия C-137",
-      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWkxXWkkyODlPVVo2WlkxM1k0NnVAZGUxLjM2LjExOC4zMzoxMTIwMQ#Germany%20%20%2F%20Frankfurt%20%2F%20OutlineKeys.com"
+      "country": "Германия",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt",
+      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTZMV1pJMjg5T1VaNlpZMTNZNDZ1QGRlMS4zNi4xMTguMzM6MTEyMDE#Germany%20%20%2F%20Frankfurt%20%2F%20OutlineKeys.com",
+      "sort_order": 1
     },
     {
+      "id": "us-newyork-1",
       "name": "США K-22",
-      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTZMV1pJMjg5T1VaNlpZMTNZNDZ1QGNhMS4xNjEuMzMuMTExOjExMjAy#Canada"
+      "country": "США",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "New York",
+      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTZMV1pJMjg5T1VaNlpZMTNZNDZ1QGNhMS4xNjEuMzMuMTExOjExMjAy#Canada%20%20%2F%20Toronto%20%2F%20OutlineKeys.com",
+      "sort_order": 2
     }
   ]
 }
