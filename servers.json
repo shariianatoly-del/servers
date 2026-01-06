@@ -1,0 +1,7 @@
+{
+  "servers": [
+    {"name": "Германия C-137", "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMDY2OWZiMTY0NDZlNTI4@54.36.118.33:11201#Germany%20#32533%20/%20OutlineKeys.com"},
+    {"name": "США K-22", "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#Canada%20#32507%20/%20OutlineKeys.com"},
+    ...
+  ]
+}
